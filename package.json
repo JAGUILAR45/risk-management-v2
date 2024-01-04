@@ -10,7 +10,7 @@
     "@sap-cloud-sdk/resilience": "^3.9.0",
     "@sap/cds": "^7",
     "@sap/cds-hana": "^2",
-    "@sap/cds-mtxs": "^1.14.0",
+    "@sap/cds-mtxs": "^1.14.2",
     "@sap/xssec": "^3",
     "express": "^4",
     "passport": "^0"
